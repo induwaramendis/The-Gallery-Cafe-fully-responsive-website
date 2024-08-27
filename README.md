@@ -1,0 +1,1 @@
+The website was developed using HTML, CSS, JavaScript, and PHP in Visual Studio Code (VS Code). It features a user-friendly design, allowing customers to browse the menu, place orders, and table reservations. The website also includes responsive design elements for an optimal viewing experience across devices.
